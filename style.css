@@ -1,0 +1,17 @@
+body{
+    background-color: darkslategray;
+}
+div{
+    top:0;
+    background-color: darkblue;
+    color: white;
+}
+button{
+    width: 200px;
+    height: 70px;
+    font-size: 200px;
+}
+.developed{
+    position: fixed;
+    bottom:0;
+}
